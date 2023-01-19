@@ -1,0 +1,10 @@
+.category-btn{
+    background-color: black;
+    color: white;
+    border-color: 'none';
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
